@@ -7,7 +7,7 @@
 
 <!-- TETRIS ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Heisenberg-Xd/Heisenberg-Xd/pacman.yml" width="100%" />
+  <img src="https://raw.githubusercontent.com/Heisenberg-Xd/Heisenberg-Xd/output/pacman-contribution-graph.svg" width="100%" />
 </div>
 
 <br/>
@@ -106,11 +106,9 @@ a Tetris block rotates perfectly into place. 😎
 
 ---
 
-
 <br/>
 
-<!-- 🟦 CUSTOM CONTRIBUTION GRAPH (FOR YOUR ACCOUNT) -->
+<!-- 🟦 CUSTOM CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&area=true&hide_border=false" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heisenberg-Xd&theme=react-dark&area=true&hide_border=false" />
 </div>
-
