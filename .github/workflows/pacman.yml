@@ -19,10 +19,16 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate pacman SVG
+      - name: Generate pacman SVG (Dark Theme)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: "Heisenberg-Xd"
+          background_color: "#000000"     # Pure black
+          dot_color: "#2c2c2c"            # Dark grey contribution squares
+          pacman_color: "#f9ff00"         # Pacman yellow
+          ghost_color: "#ff005d"          # Ghost red/pink
+          path_color: "#4CC9F0"           # Neon cyan
+          stroke_color: "#1a1a1a"         # Grid stroke dark
 
       - name: Push pacman-contribution-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
