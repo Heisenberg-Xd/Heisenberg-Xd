@@ -1,7 +1,7 @@
 <!-- TETRIS HEADER -->
 <h1 align="center">🟦🟥🟩 Hey Player 1, I'm <span style="color:#4CC9F0;">Kartikesh Gaonkar</span> 👋</h1>
 
-<h3 align="center">🎮 Full-Stack Developer • 🧠 AI/ML Explorer • 🟨 Tetris Enthusiast</h3>
+<h3 align="center">🎮 Full-Stack Developer • 🧠 AI/ML Explorer </h3>
 
 <br/>
 
@@ -15,14 +15,14 @@
 
 <!-- ABOUT -->
 ## 🧊 Who Am I?
-I'm a developer who writes code the same way Tetris blocks fall —  
+I'm a developer who writes code —  
 **fast, chaotic, and surprisingly well-aligned at the end.**  
 
 I build:
 - 🖥️ Clean & powerful **frontend experiences**
 - 🔥 Scalable **Flask / FastAPI backends**
 - 🤖 Smart features using **AI/ML**
-- 🎮 And of course… random retro-themed fun stuff 😎
+- 🎮 And of course… random fun stuff 😎
 
 <br/>
 
