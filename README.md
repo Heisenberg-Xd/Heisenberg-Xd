@@ -79,11 +79,27 @@ I build:
 <!-- SOCIALS -->
 ## 🔗 Connect With Me
 
+## 🔗 Connect With Me
+
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="30"/></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&color=000000&style=for-the-badge" height="30"/></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="30"/></a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kartikesh-gaonkar-b37274320?trk=universal-search-cluster" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="30"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/kartikeshhhhhh?igsh=MWcyYjdhMDFlbHV5cg==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="30"/>
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/Kartik_2509?t=C96QDIzU-_pcce3N2ZzKGA&s=09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&color=000000&style=for-the-badge" height="30"/>
+  </a>
+
 </div>
+
 
 <br/>
 
