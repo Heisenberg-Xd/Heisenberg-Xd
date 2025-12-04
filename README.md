@@ -7,7 +7,8 @@
 
 <!-- PACMAN CONTRIBUTION ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Heisenberg-Xd/Heisenberg-Xd/output/pacman-contribution-graph.svg" width="100%" />
+ <img src="https://raw.githubusercontent.com/Heisenberg-Xd/Heisenberg-Xd/output/pacman-contribution-graph.svg" width="100%" />
+
 </div>
 
 <br/>
