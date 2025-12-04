@@ -1,41 +1,52 @@
-🟨 About Me
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Hey! I’m KARTIKESH, a Full-Stack Developer who
-writes code, breaks things, fixes them again, and pretends it was all part of the plan.
+###
 
-💻 Full-Stack Development (React + Flask + FastAPI)
-🧠 AI/ML Explorer — turning datasets into intelligent features
-🎨 UI/UX + Portfolio Designer — currently making a Tetris-themed website
-📊 Data + Backend Architecture enthusiast
-⚡ Loves building real-world projects, chaotic prototypes, and interactive UI (like mini-games!)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-🟪 Tech Stack – My Tetris Blocks
+###
 
-Every dev has building blocks.
-These are mine — the pieces I drop into every project:
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-🧩 Languages
+###
 
-Python · JavaScript · C · SQL
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-🧱 Frontend
+###
 
-React.js · TailwindCSS · HTML · CSS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-🖥 Backend
-
-Flask · FastAPI · Node.js
-
-🗄 Databases
-
-MySQL · MongoDB
-
-🤖 AI/ML
-
-scikit-learn · Pandas · NumPy · joblib
-
-🟥 Fun Stats (Because Numbers Look Cool Here)
-🟩 Lines of Code Dropped:       ███████████████████░ 97%
-🟦 Coffee Level:                █████████████░░░░░░ 74%
-🟪 Bugs Fixed at 3AM:           ██████████████████░ 95%
-🟥 Times I broke my own code:   ███████████████████ 100%
+###
