@@ -1,21 +1,8 @@
-
----
-
-# ✅ **Final Correct Workflow (Fixed)**  
-✔ Correct username  
-✔ Correct path  
-✔ Uses GitHub’s actual green contributions  
-✔ Dark mode  
-✔ Works with `output` branch  
-✔ No errors  
-✔ Displays from README perfectly  
-
-```yaml
 name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -32,19 +19,28 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate pacman SVG (Dark Theme + Real GitHub Green)
+      - name: Generate pacman SVG (True Black Mode)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: "Heisenberg-Xd"
-          background_color: "#000000"
-          dot_color: "#0e4429"         # GitHub dark green low
-          dot_color2: "#006d32"        # medium green
-          dot_color3: "#26a641"        # bright green
-          dot_color4: "#39d353"        # highest green
+
+          # 🔥 FULL DARK THEME FIX
+          background_color: "#000000"     # Black background
+          empty_color: "#000000"          # Empty squares also black
+          grid_color: "#000000"           # Remove grey grid
+          border_color: "#000000"         # Invisible borders
+
+          # 🟩 Real GitHub green contribution levels
+          dot_color:  "#0e4429"
+          dot_color2: "#006d32"
+          dot_color3: "#26a641"
+          dot_color4: "#39d353"
+
+          # 🟡 Pac-Man + Ghosts + Path
           pacman_color: "#f9ff00"
           ghost_color: "#ff005d"
           path_color: "#4CC9F0"
-          stroke_color: "#1a1a1a"
+          stroke_color: "#000000"
 
       - name: Push pacman-contribution-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
