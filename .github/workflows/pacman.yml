@@ -19,28 +19,30 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate pacman SVG (True Black Mode)
+      - name: Generate pacman SVG (True Dark Mode)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: "Heisenberg-Xd"
 
-          # 🔥 FULL DARK THEME FIX
-          background_color: "#000000"     # Black background
-          empty_color: "#000000"          # Empty squares also black
-          grid_color: "#000000"           # Remove grey grid
-          border_color: "#000000"         # Invisible borders
+          theme: "custom"   # 🔥 REQUIRED or everything breaks
 
-          # 🟩 Real GitHub green contribution levels
+          # 🌑 Full Dark Mode
+          background_color: "#000000"
+          empty_color: "#000000"
+          grid_color: "#000000"
+          border_color: "#000000"
+          stroke_color: "#000000"
+
+          # 🟩 Real GitHub green contribution colors
           dot_color:  "#0e4429"
           dot_color2: "#006d32"
           dot_color3: "#26a641"
           dot_color4: "#39d353"
 
-          # 🟡 Pac-Man + Ghosts + Path
+          # 🎮 Pac-Man + Ghosts
           pacman_color: "#f9ff00"
           ghost_color: "#ff005d"
           path_color: "#4CC9F0"
-          stroke_color: "#000000"
 
       - name: Push pacman-contribution-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
