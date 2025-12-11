@@ -109,12 +109,13 @@ I build:
 ## 🟪 Scoreboard (GitHub Stats)
 
 <div align="center">
+  <!-- Real streak stats linked to your username -->
+  <img src="https://streak-stats.demolab.com?user=Heisenberg-Xd&theme=dracula&hide_border=false" alt="github streaks" height="150" />
 
-<img src="https://streak-stats.demolab.com?user=Heisenberg-Xd&theme=dracula&hide_border=false" height="150" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Heisenberg-Xd&theme=dracula&no-frame=false&margin-w=8" height="150" />
-
+  <!-- Profile trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Heisenberg-Xd&theme=dracula&no-frame=false&margin-w=8" alt="github trophies" height="150" />
 </div>
+
 
 <br/>
 
