@@ -1,6 +1,6 @@
-# Professional GitHub Profile README
 
-```html
+
+
 <h1 align="center">Hi 👋, I'm Kartikesh Gaonkar</h1>
 <h3 align="center">Full-Stack Developer • AI/ML Engineer • Building Scalable Intelligent Systems</h3>
 
@@ -70,21 +70,3 @@
 - 🧩 Knowledge graphs and entity extraction
 - ⚡ High-performance FastAPI systems
 ```
-
-## ✅ Why commit counts were inaccurate before
-
-The previous **streak/trophy widgets do not show total commit counts reliably**.
-
-This version uses:
-
-* `github-readme-stats` with `include_all_commits=true`
-* `count_private=true`
-
-That gives a much more accurate total contribution overview, especially if:
-
-* you commit across multiple branches
-* you squash merge PRs
-* you work in private repos
-* you contribute to org repos
-
-It’s also much more professional for recruiters and hiring managers.
