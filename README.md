@@ -1,128 +1,79 @@
-<!-- TETRIS HEADER -->
-<h1 align="center">🟦🟥🟩 Hey Player 1, I'm <span style="color:#4CC9F0;">Kartikesh Gaonkar</span> 👋</h1>
+# Hi, I'm Kartikesh Gaonkar 👋
 
-<h3 align="center">🎮 Full-Stack Developer • 🧠 AI/ML Explorer </h3>
+**Full-Stack Developer | AI/ML Explorer**
 
-<br/>
-
-<!-- PACMAN CONTRIBUTION ANIMATION -->
-
-
-<br/>
-
-<!-- ABOUT -->
-## 🧊 Who Am I?
-I'm a developer who writes code —  
-**fast, chaotic, and surprisingly well-aligned at the end.**  
-
-I build:
-- 🖥️ Clean & powerful **frontend experiences**
-- 🔥 Scalable **Flask / FastAPI backends**
-- 🤖 Smart features using **AI/ML**
-- 🎮 And of course… random fun stuff 😎
-
-<br/>
-
-<!-- STACK -->
-## 🎛️ Tech Stack (Pieces I Lock in Daily)
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html" height="60" />
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=css" height="60" />
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=js" height="60" />
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=react" height="60" />
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="60" />
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=flask" height="60" />
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=fastapi" height="60" />
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=mysql" height="60" />
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="60" />
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=postgres" height="60" />
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=python" height="60" />
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" />
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" />
-<img width="12"/>
-
-<img src="https://img.shields.io/badge/joblib-FFDD00?style=for-the-badge&logo=python&logoColor=black" height="35" />
-
-</div>
-
-<br/>
-
-<!-- SOCIALS -->
-## 🔗 Connect With Me
-
-<## 🔗 Connect With Me
-
-<div align="center">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/kartikesh-gaonkar-b37274320?trk=universal-search-cluster" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="30"/>
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/kartikeshhhhhh?igsh=MWcyYjdhMDFlbHV5cg==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="30"/>
-  </a>
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/Kartik_2509?t=C96QDIzU-_pcce3N2ZzKGA&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&color=000000&style=for-the-badge" height="30"/>
-  </a>
-
-</div>
-
-
-
-
-<br/>
-
-<!-- GITHUB STATS -->
-## 🟪 Scoreboard (GitHub Stats)
-
-<div align="center">
- <img src="https://streak-stats.demolab.com?user=Heisenberg-Xd&theme=dracula&hide_border=false" height="150" /> 
- <img src="https://github-profile-trophy.vercel.app/?username=Heisenberg-Xd&theme=dracula&no-frame=false&margin-w=8" height="150" />
-</div>
-
-<br/>
-
-<!-- TETRIS FOOTER -->
-## 🟥 Fun Fact  
-Every time I push a commit, somewhere in the universe…  
-a Tetris block rotates perfectly into place. 😎
+I'm a software developer passionate about building scalable applications and exploring artificial intelligence. I specialize in creating clean, performant web experiences and intelligent backend systems.
 
 ---
 
-<br/>
+## 🚀 What I Do
 
-<!-- CUSTOM CONTRIBUTION GRAPH -->
+- Build responsive, user-centric **frontend applications**
+- Develop robust **backend systems** with Flask and FastAPI
+- Integrate **AI/ML solutions** into production applications
+- Create efficient, maintainable code architectures
+
+---
+
+## 💻 Technical Skills
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heisenberg-Xd&theme=react-dark&area=true&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Heisenberg-Xd&theme=default&hide_border=true&border_radius=5" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Heisenberg-Xd&show_icons=true&theme=default&hide_border=true&border_radius=5" alt="GitHub Stats" height="165"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heisenberg-Xd&theme=github-compact&hide_border=true&border_radius=5&area=true" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Heisenberg-Xd&theme=flat&no-frame=true&margin-w=8&row=1" alt="Trophies"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kartikesh-gaonkar-b37274320">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/kartikeshhhhhh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/Kartik_2509">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <i>Open to collaboration and new opportunities</i>
+</div>
