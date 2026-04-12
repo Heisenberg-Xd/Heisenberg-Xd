@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kartikesh Gaonkar</h1>
-<h3 align="center">Full-Stack Developer • AI/ML Engineer • Building Scalable Intelligent Systems</h3>
+<h3 align="center">Software Developer • AI/ML Engineer • Building Scalable Intelligent Systems</h3>
 
 <p align="center">
   I build production-ready full-stack applications, AI-powered platforms, and backend systems focused on real-world impact.
